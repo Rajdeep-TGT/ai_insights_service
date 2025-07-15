@@ -1,0 +1,6 @@
+receiptId,tenantId,amount,date,vendor,category,items
+r001,abc123,100.0,2025-07-01,Amazon,Electronics,"['Mouse']"
+r002,abc123,200.0,2025-07-02,Flipkart,Groceries,"['Rice', 'Oil']"
+r003,abc123,150.0,2025-07-03,Amazon,Electronics,"['Keyboard']"
+r004,abc123,250.0,2025-07-04,Myntra,Clothing,"['Shirt']"
+r005,abc123,90.0,2025-07-05,Amazon,Electronics,"['Cable']"
